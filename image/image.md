@@ -1,1 +1,1 @@
-Images will be put here, do not forget to clean solar panels.
+Images will be put here; do not forget to clean solar panels.
