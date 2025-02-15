@@ -29,7 +29,9 @@
   <p align = "center">
     <img src = "image/1.png" width = "432" height = "577" title = "Solar Generator"
   </p>
-    
+    <br>
+    <br>
+    <br>
   <p align = "center">
     <img src = "image/2.png" width = "560" height = "747" title = "Solar Generator"
   </p>
@@ -39,9 +41,7 @@
   <p align = "center">
     <img src = "image/3.png" width = "577" height = "432" title = "Solar Generator"
   </p>
-    <br>
-    <br>
-    <br>
+
   <p align = "center">
     <img src = "image/4.png" width = "432" height = "577" title = "Solar Generator"
   </p>
