@@ -38,6 +38,7 @@
     <br>
     <br>
     <br>
+    <br>
   <p align = "center">
     <img src = "image/3.png" width = "577" height = "432" title = "Solar Generator"
   </p>
