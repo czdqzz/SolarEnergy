@@ -15,7 +15,7 @@
 - We could read [Solar Energy](https://www.britannica.com/technology/solar-cell) to know many details. Next, we will analyze one console to research solar energy.
 
 
-## Solar Energy Implement and Solar Generator
+## Implementing Solar Energy and Solar Generator
 - **Another name of Solar Generator :** Solar-Powered Generator
 - **The Solar Panel of Solar Generator :** One 100W Solar Panel (7.5KG) with 12V DC
 - **The Controller of Solar Generator :** MPPT Solar Charge Controller 12V DC
